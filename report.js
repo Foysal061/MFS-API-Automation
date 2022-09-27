@@ -7,7 +7,7 @@ newman.run({
     iterationCount: 1,
     reporter: {
         htmlextra: {
-            export: './Reports/report.html', // If not specified, the file will be written to 'newman/' in the current working directory.
+            export: './reports/report.html', // If not specified, the file will be written to 'newman/' in the current working directory.
         }
     }
 }, function (err) {
