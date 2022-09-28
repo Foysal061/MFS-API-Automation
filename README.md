@@ -26,15 +26,10 @@
     https://documenter.getpostman.com/view/8218050/2s83f7FDFD
 ## Reports in Postman?
 ### Postman Interface
-![Postman Interface](https://drive.google.com/file/d/1_Uxua9Q1MoUW1kOInP7fj8DIIudMMKVZ/view?usp=sharing)
 
-    
 ### Report summary
-![PostmanDetail-1](https://github.com/Foysal061/MFS-API-Automation/blob/main/images/PostmanDetail-2.png)
+
 ### Report details
-    PostmanDetail-1.png
-    PostmanDetail-2.png
-    PostmanDetail-3.png
 
 ## Report in newman?
 #### 1. Create a folder in your directory and open the folder in Visual Studio Code.
@@ -46,7 +41,6 @@
 #### Now run this command:
     npx newman run .\colllection\collection.json
 #### Terminal Report
-    Terminal_Interface.png
+
 #### Newman Report
-    Summary.png
-    Total_Request.png
+
