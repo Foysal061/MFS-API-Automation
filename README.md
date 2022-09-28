@@ -26,8 +26,7 @@
     https://documenter.getpostman.com/view/8218050/2s83f7FDFD
 ## Reports in Postman?
 ### Postman Interface
-    <br><br><br><br><br>
-    <img src="https://github.com/Foysal061/MFS-API-Automation/blob/main/images/PostmanInterface.png"> <br><br><br><br><br>
+    ![PostmanDetail-1](https://user-images.githubusercontent.com/48391584/192659400-e791a6b0-04fd-4c04-8d25-bc12c9f76ab2.png)
     
 ### Report summary
     https://drive.google.com/drive/folders/1A4c0di2W3xFEG1amhl2ZVAl6UEcCgw94
