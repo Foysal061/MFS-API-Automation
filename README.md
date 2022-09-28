@@ -29,7 +29,7 @@
     https://documenter.getpostman.com/view/8218050/2s83f7FDFD
 ## Reports in Postman?
 ### Postman Interface
-    [PostmanDetail-2](https://user-images.githubusercontent.com/48391584/192659838-25ad56a8-9a79-4bd3-ab46-c38ee3933fbc.png)
+![PostmanDetail-1](https://github.com/Foysal061/MFS-API-Automation/blob/main/images/PostmanDetail-2.png)
     
 ### Report summary
     https://drive.google.com/drive/folders/1A4c0di2W3xFEG1amhl2ZVAl6UEcCgw94
@@ -37,7 +37,7 @@
     PostmanDetail-1.png
     PostmanDetail-2.png
     PostmanDetail-3.png
-### Report details
+
 ![PostmanDetail-2](https://user-images.githubusercontent.com/48391584/192659947-0d4ee53a-db62-44db-98c7-ddad2068f2aa.png)
 
 ## Report in newman?
