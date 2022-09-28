@@ -37,6 +37,7 @@
     PostmanDetail-1.png
     PostmanDetail-2.png
     PostmanDetail-3.png
+    ### Report details
     ![PostmanDetail-2](https://user-images.githubusercontent.com/48391584/192659947-0d4ee53a-db62-44db-98c7-ddad2068f2aa.png)
 
 ## Report in newman?
