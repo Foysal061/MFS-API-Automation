@@ -6,6 +6,8 @@
     https://roadtosdet.com/step-by-step-testing-with-postman/
 
 ### Listing the APIs below that I have used for my testing:
+![192659400-e791a6b0-04fd-4c04-8d25-bc12c9f76ab2](https://user-images.githubusercontent.com/48391584/192659689-5d5f6db4-b134-4449-be96-da45d5fdfa76.png)
+
 
 |Method|                        Url	                                    | Decription	|Sample Valid Request Body|
 |------|-------------------------------------------------------------------|--------------|------------------------|
