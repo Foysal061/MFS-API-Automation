@@ -16,6 +16,8 @@
 | PUT  |https://customer-test-api.herokuapp.com/customer/api/v1/update/{{id}} |  Update customer information | JSON   |
 | DEL  |https://customer-test-api.herokuapp.com/customer/api/v1/delete/{{id}} |Delete customer | VOID   |
 
+## Test Cases Executed
+    https://docs.google.com/spreadsheets/d/1NxFa7BF4CTkunjOhRn2tIRtdgotPcTV5/edit?usp=sharing&ouid=107282773794598265697&rtpof=true&sd=true
 
 ## How to run all the tests in Postman?
 ### Import the collections into Postman and run:
@@ -24,7 +26,8 @@
     https://documenter.getpostman.com/view/8218050/2s83f7FDFD
 ## Reports in Postman?
 ### Postman Interface
-    <img src="https://github.com/Foysal061/MFS-API-Automation/blob/main/images/PostmanInterface.png"> <br>
+    <br><br><br><br><br>
+    <img src="https://github.com/Foysal061/MFS-API-Automation/blob/main/images/PostmanInterface.png"> <br><br><br><br><br>
     
 ### Report summary
     https://drive.google.com/drive/folders/1A4c0di2W3xFEG1amhl2ZVAl6UEcCgw94
