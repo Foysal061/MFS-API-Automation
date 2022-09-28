@@ -16,7 +16,7 @@
 | PUT  |https://customer-test-api.herokuapp.com/customer/api/v1/update/{{id}} |  Update customer information | JSON   |
 | DEL  |https://customer-test-api.herokuapp.com/customer/api/v1/delete/{{id}} |Delete customer | VOID   |
 
-## Test Cases Executed
+## Test Cases Executed!
     https://docs.google.com/spreadsheets/d/1NxFa7BF4CTkunjOhRn2tIRtdgotPcTV5/edit?usp=sharing&ouid=107282773794598265697&rtpof=true&sd=true
 
 ## How to run all the tests in Postman?
@@ -27,6 +27,7 @@
 ## Reports in Postman?
 ### Postman Interface
 ![Postman Interface](https://drive.google.com/file/d/1_Uxua9Q1MoUW1kOInP7fj8DIIudMMKVZ/view?usp=sharing)
+
     
 ### Report summary
 ![PostmanDetail-1](https://github.com/Foysal061/MFS-API-Automation/blob/main/images/PostmanDetail-2.png)
@@ -34,6 +35,7 @@
     PostmanDetail-1.png
     PostmanDetail-2.png
     PostmanDetail-3.png
+
 ## Report in newman?
 #### 1. Create a folder in your directory and open the folder in Visual Studio Code.
 #### Run this command
